@@ -1,0 +1,7 @@
+#  variables de entorno
+.env
+
+#  carpetas de build y caché
+infra/build/
+infra/__pycache__/
+__pycache__/
